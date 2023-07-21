@@ -7,6 +7,6 @@
   <li>Ketika popup bookmark muncul klik tombol more</li>
   <li>Setelah memasuki menu edit bookmark, ganti url menjadi script pada repo ini <br> <img src="https://github.com/faan-isme/lock_band_wifi/blob/main/aset/img2.jpg"></li>
   <li>Klik Save jika sudah </li>
-  <li>Untuk menjalankan masuk kemenu customize adn control google chrome (klik titik 3) <br> <img src="https://github.com/faan-isme/lock_band_wifi/blob/main/aset/img3.jpg"></li>
+  <li>Untuk menjalankan masuk kemenu customize and control google chrome (klik titik 3) <br> <img src="https://github.com/faan-isme/lock_band_wifi/blob/main/aset/img3.jpg"></li>
   <li>Pilih Bookmark, klik nama bookmark yang tadi dibuat yaitu Mobile Broadband </li>
 </ol>
